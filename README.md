@@ -1,5 +1,5 @@
 # Small-Java-Games
-3 small games built on Java: Hangman, Rock Paper Scissors and the Fallout Terminal. One of the first Java assignments I did.
+3 small games built on Java: Hangman, Rock Paper Scissors and the Fallout Terminal. One of the first Java assignments I did. Not all of the code was developed by me. Most of the game logic code was written by me.
 
 
 ## Files in repository
