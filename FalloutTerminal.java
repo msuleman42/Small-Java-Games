@@ -1,10 +1,9 @@
-package com.bham.pij.assignments.rps;
 
 import java.util.ArrayList;
 
 /**
  * This FalloutTerminal program       and is part of
- * Assignment 1 for the OOP/SW1 module. I love Fallout!
+ * Assignment 1. I love Fallout!
  * 
  * @author Ian Kenny, Munir Suleman
  * @version 1.0
