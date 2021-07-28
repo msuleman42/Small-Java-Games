@@ -1,8 +1,8 @@
-package com.bham.pij.assignments.rps;
+
 
 /**
  * This RockPaperScissors program plays the Rock, Paper, Scissors game and is part of
- * Assignment 1 for the OOP/SW1 module
+ * Assignment 1
  * 
  * @author Ian Kenny, Munir Suleman
  * @version 1.0
